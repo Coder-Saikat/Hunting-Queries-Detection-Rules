@@ -20,7 +20,7 @@ CloudAppEvents
      Recipients,
      InvestigationLink
 ```
-### Sentinel
+### This is for Sentinel
 ```
 CloudAppEvents
 | where ActionType == "TIMailData-Inline"
